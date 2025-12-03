@@ -24,7 +24,7 @@ public class Main {
             System.out.println("3. Buscar nodo");
             System.out.println("4. Eliminar nodo");
             System.out.println("5. Ver cantidad de nodos");
-            System.out.println("6. Agregar nodo en una posicion");
+            System.out.println("6. Agregar nodo en una posicion especifica");
             System.out.println("0. Salir :c");
             System.out.print("Elija una opcion: ");
             opcion = lea.nextInt();
